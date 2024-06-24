@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @SuzanTurner
+ji- 👋 Hi, I’m @SuzanTurner
 - 👀 I’m interested in books, music and more books.
 - 🌱 I’m currently learning data science.
 - 💞️ I’m looking to collaborate on GitHub 
 - 📫 How to reach me ...
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: Perfect Crimes Exist.
+- ⚡ Fun fact: Second kidney is just a start up budget
 
 <!---
 SuzanTurner/SuzanTurner is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
