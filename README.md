@@ -1,6 +1,6 @@
 👋 Hi, I’m @SuzanTurner
 
-- Contact me: yadhnikawakde@gmail.com
+- Contact me: yadhnikawakde@gmail.com, yadhnika.dev@gmail.com
 - Check out my [LeetCode](https://leetcode.com/u/YadhnikaWakde/)
 
 (Go touch some stack)
