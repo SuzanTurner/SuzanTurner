@@ -1,6 +1,5 @@
-
-
 Hey there, I'm **Yadhnika Wakde** - I make shit that works, don't ask me how, don't ask me why.
+
 ### I can do anything as I am a Dev, and here's an example:
 
 Paste this in your terminal: 
