@@ -1,6 +1,6 @@
 
 
-Hey there, I'm **Yadhnika Wakde** — but in the backend streets they call me the **CRUD Lord** 👑  
+Hey there, I'm **Yadhnika Wakde** — I call myself the **CRUD Lord** 👑  
 I make shit that works, don't ask me how, don't ask me why.
 
 ### 📬 Hit Me Up  
@@ -10,8 +10,8 @@ I make shit that works, don't ask me how, don't ask me why.
 - 🧠 [LeetCode Grind](https://leetcode.com/u/YadhnikaWakde/)
 
 ### 💻 What I Do
-- FastAPI backend building with that async sauce 🥫  
-- PostgreSQL queries so clean they make SQL cry tears of joy  
+- FastAPI  
+- PostgreSQL 
 - RESTful APIs that actually rest 
 - Automation, deployments, and occasional database type shi
 
@@ -24,7 +24,7 @@ I make shit that works, don't ask me how, don't ask me why.
 
 
 Stay async. Stay dangerous.
-Peace ✌️
+Python for Life ✌️
 <!---
 SuzanTurner/SuzanTurner is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
