@@ -12,6 +12,8 @@ Or this in your cmd:
 curl -o temp_cli.py https://raw.githubusercontent.com/SuzanTurner/F/main/cli.py && python temp_cli.py && del temp_cli.py
 ```
 
+> You can find the source code of this awesomeness [here](https://github.com/SuzanTurner/F)
+
 ### 📬 Hit Me Up  
 - 💌 **Email**:  
   - yadhnikawakde@gmail.com  
@@ -25,7 +27,7 @@ curl -o temp_cli.py https://raw.githubusercontent.com/SuzanTurner/F/main/cli.py 
 - Automation, deployments, and occasional database type shi
 
 
-> “Go touch some stack.” – Me, daily
+> "Go touch some stack" - Me, daily...
 
 Python for Life ✌️
 <!---
