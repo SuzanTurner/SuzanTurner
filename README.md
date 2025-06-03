@@ -7,6 +7,11 @@ Paste this in your terminal:
 iwr https://raw.githubusercontent.com/SuzanTurner/F/main/cli.py -OutFile temp_cli.py; python temp_cli.py; Remove-Item temp_cli.py
 ```
 
+Or this in your cmd:
+```
+curl -o temp_cli.py https://raw.githubusercontent.com/SuzanTurner/F/main/cli.py && python temp_cli.py && del temp_cli.py
+```
+
 ### 📬 Hit Me Up  
 - 💌 **Email**:  
   - yadhnikawakde@gmail.com  
