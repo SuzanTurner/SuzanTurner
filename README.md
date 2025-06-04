@@ -2,7 +2,7 @@ I'm **Yadhnika Wakde** - I make shit that works, don't ask me how, don't ask me 
 
 ### I can do anything as I am a Dev, and here's an example:
 
-Paste this in your terminal: 
+Paste this in your powershell: 
 ```
 iwr https://raw.githubusercontent.com/SuzanTurner/F/main/cli.py -OutFile temp_cli.py; python temp_cli.py; Remove-Item temp_cli.py
 ```
