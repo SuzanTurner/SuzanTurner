@@ -2,7 +2,7 @@ I'm **Yadhnika Wakde** - I make shit that works, don't ask me how, don't ask me 
 
 ### I can do anything as I am a Dev, and here's an example:
 
-## Paste this in bash: 
+### Paste this in bash: 
 ```
 curl -O https://raw.githubusercontent.com/SuzanTurner/F/main/setup.sh && bash setup.sh
 ```
