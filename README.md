@@ -12,6 +12,11 @@ Or this in your cmd:
 curl -o temp_cli.py https://raw.githubusercontent.com/SuzanTurner/F/main/cli.py && python temp_cli.py && del temp_cli.py
 ```
 
+Or this in bash:
+```
+curl -O https://raw.githubusercontent.com/SuzanTurner/F/main/cli.py && python cli.py && rm cli.py
+```
+
 > You can find the source code of this awesomeness [here](https://github.com/SuzanTurner/F)
 
 ### 📬 Hit Me Up  
