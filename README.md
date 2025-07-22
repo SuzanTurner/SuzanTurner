@@ -1,5 +1,5 @@
-I'm **Yadhnika Wakde** 
-I maintain `clipd - the Command Line Interface for Python`
+I'm **Yadhnika Wakde**.
+I am the maintainer of **`clipd`** 
 
 
 ### 📬 Hit Me Up  
