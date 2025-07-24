@@ -1,5 +1,5 @@
 I'm **Yadhnika Wakde**.
-I am the maintainer of **`clipd`** 
+I am the maintainer of **`cliPd`** and **`ShiPy`**
 
 
 ### 📬 Hit Me Up  
