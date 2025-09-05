@@ -3,8 +3,7 @@ I am the maintainer of **`cliPd`** and **`ShiPy`**
 
 
 ### 📬 Hit Me Up  
-- 💌 **Email**:  
-  - yadhnikawakde@gmail.com  
+- 💌 **Email**:  yadhnikawakde@gmail.com  
 - 🧠 Check out my [LeetCode](https://leetcode.com/u/YadhnikaWakde/)
 
 ### 💻 What I Do
